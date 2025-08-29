@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "supplier_code": "SUPP0001",
+    "name": "Tech Suppliers Ltd",
+    "contact_person": "Robert Wilson",
+    "phone": "+91-9876543213",
+    "email": "robert@techsuppliers.com",
+    "address": "123 Supplier Street",
+    "city": "Chennai",
+    "created_at": "2025-08-29T17:15:56.213624"
+  }
+]
