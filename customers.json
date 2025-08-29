@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "id": 1,
+    "customer_code": "CUST0001",
+    "name": "ABC Enterprises",
+    "contact_person": "John Doe",
+    "phone": "+91-9876543210",
+    "email": "john@abc.com",
+    "address": "456 Customer Street",
+    "city": "Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "created_at": "2025-08-29T17:07:05.500658"
+  },
+  {
+    "id": 2,
+    "customer_code": "CUST0002",
+    "name": "XYZ Corporation",
+    "contact_person": "Jane Smith",
+    "phone": "+91-9876543211",
+    "email": "jane@xyz.com",
+    "address": "789 Client Avenue",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "country": "India",
+    "created_at": "2025-08-29T17:07:05.500658"
+  }
+]
