@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": 1,
+    "supplier_code": "SUPP0001",
+    "name": "AAAA",
+    "contact_person": "aaaa",
+    "phone": "7004385000",
+    "email": "aaaa.xxxx@gmail.com",
+    "address": "Epsilon",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "created_at": "2025-08-29T21:39:26.494971"
+  }
+]
