@@ -13,12 +13,14 @@
       }
     ],
     "subtotal": 3200.0,
-    "tax_amount": 160.0,
-    "total_amount": 3360.0,
+    "tax_amount": 576.0,
+    "total_amount": 3776.0,
     "status": "confirmed",
     "notes": "sold",
     "created_at": "2025-09-01T16:27:45.632156",
-    "customer_name": "Shakti Samant Singh"
+    "customer_name": "Shakti Samant Singh",
+    "tax_rate": 18.0,
+    "updated_at": "2025-09-01T20:35:31.978316"
   },
   {
     "id": 2,
@@ -34,13 +36,14 @@
       }
     ],
     "subtotal": 22000.0,
-    "tax_amount": 3600.0,
-    "total_amount": 25600.0,
+    "tax_amount": 1100.0,
+    "total_amount": 23100.0,
     "status": "confirmed",
     "notes": "",
     "created_at": "2025-09-01T16:29:27.371701",
     "customer_name": "Shakti Singh",
-    "updated_at": "2025-09-01T16:36:43.956660"
+    "updated_at": "2025-09-01T20:35:15.126946",
+    "tax_rate": 5.0
   },
   {
     "id": 3,
