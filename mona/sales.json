@@ -29,16 +29,17 @@
       {
         "product_id": 2,
         "quantity": 4,
-        "price": 5000,
-        "total": 20000
+        "price": 5500,
+        "total": 22000
       }
     ],
-    "subtotal": 20000.0,
+    "subtotal": 22000.0,
     "tax_amount": 3600.0,
-    "total_amount": 23600.0,
+    "total_amount": 25600.0,
     "status": "confirmed",
     "notes": "",
     "created_at": "2025-09-01T16:29:27.371701",
-    "customer_name": "Shakti Singh"
+    "customer_name": "Shakti Singh",
+    "updated_at": "2025-09-01T16:36:43.956660"
   }
 ]
