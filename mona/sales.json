@@ -17,7 +17,8 @@
     "total_amount": 3360.0,
     "status": "confirmed",
     "notes": "sold",
-    "created_at": "2025-09-01T16:27:45.632156"
+    "created_at": "2025-09-01T16:27:45.632156",
+    "customer_name": "Shakti Samant Singh"
   },
   {
     "id": 2,
@@ -37,6 +38,7 @@
     "total_amount": 23600.0,
     "status": "confirmed",
     "notes": "",
-    "created_at": "2025-09-01T16:29:27.371701"
+    "created_at": "2025-09-01T16:29:27.371701",
+    "customer_name": "Shakti Singh"
   }
 ]
