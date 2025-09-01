@@ -92,6 +92,35 @@
     "total_amount": 22050.0,
     "status": "confirmed",
     "notes": "selling multiple product",
-    "created_at": "2025-09-01T20:46:59.477874"
+    "created_at": "2025-09-01T20:46:59.477874",
+    "customer_name": "Shakti Samant Singh"
+  },
+  {
+    "id": 5,
+    "invoice_number": "INV0005",
+    "customer_id": 1,
+    "sale_date": "2025-08-22",
+    "items": [
+      {
+        "product_id": 1,
+        "quantity": 10,
+        "price": 300,
+        "total": 3000
+      },
+      {
+        "product_id": 2,
+        "quantity": 7,
+        "price": 6000,
+        "total": 42000
+      }
+    ],
+    "subtotal": 45000.0,
+    "tax_rate": 5.0,
+    "tax_amount": 2250.0,
+    "total_amount": 47250.0,
+    "status": "confirmed",
+    "notes": "",
+    "created_at": "2025-09-01T22:10:01.195979",
+    "customer_name": "Shakti Samant Singh"
   }
 ]
