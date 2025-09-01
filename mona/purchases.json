@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": 1,
+    "purchase_number": "PUR0001",
+    "supplier_id": 1,
+    "purchase_date": "2025-08-01",
+    "items": [
+      {
+        "product_id": 1,
+        "quantity": 50,
+        "price": 210,
+        "total": 10500
+      }
+    ],
+    "subtotal": 10500.0,
+    "tax_amount": 5.0,
+    "total_amount": 10505.0,
+    "status": "received",
+    "notes": "purchase",
+    "created_at": "2025-09-01T16:37:55.003359",
+    "updated_at": "2025-09-01T16:38:30.099911"
+  }
+]
