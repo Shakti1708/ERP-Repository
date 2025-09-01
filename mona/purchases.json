@@ -18,7 +18,8 @@
     "status": "received",
     "notes": "purchase",
     "created_at": "2025-09-01T16:37:55.003359",
-    "updated_at": "2025-09-01T16:38:30.099911"
+    "updated_at": "2025-09-01T16:38:30.099911",
+    "supplier_name": "AAAA"
   },
   {
     "id": 2,
@@ -39,6 +40,7 @@
     "status": "received",
     "notes": "",
     "created_at": "2025-09-01T17:21:47.899643",
-    "updated_at": "2025-09-01T17:21:58.034456"
+    "updated_at": "2025-09-01T17:21:58.034456",
+    "supplier_name": "AAAA"
   }
 ]
