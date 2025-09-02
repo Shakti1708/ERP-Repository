@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": 1,
+    "product_code": "PROD0001",
+    "name": "computer",
+    "category": "Electronics",
+    "description": "IT appliances",
+    "purchase_price": 60000.0,
+    "selling_price": 78000.0,
+    "stock_quantity": 50,
+    "min_stock": 5,
+    "unit": "Pcs",
+    "created_at": "2025-09-02T14:57:35.865190"
+  }
+]
