@@ -11,7 +11,7 @@
     "min_stock": 10,
     "unit": "Pcs",
     "created_at": "2025-08-29T21:55:06.190586",
-    "updated_at": "2025-09-01T22:11:48.023599"
+    "updated_at": "2025-09-02T15:33:19.900014"
   },
   {
     "id": 2,
@@ -25,6 +25,20 @@
     "min_stock": 5,
     "unit": "Pcs",
     "created_at": "2025-08-29T21:56:02.458269",
-    "updated_at": "2025-09-01T22:12:13.623524"
+    "updated_at": "2025-09-02T15:33:06.933866"
+  },
+  {
+    "id": 3,
+    "product_code": "PROD0003",
+    "name": "Product3",
+    "category": "Appliances",
+    "description": "new stock",
+    "purchase_price": 10000.0,
+    "selling_price": 13000.0,
+    "stock_quantity": 100,
+    "min_stock": 5,
+    "unit": "Pcs",
+    "created_at": "2025-09-02T15:31:32.953271",
+    "updated_at": "2025-09-02T15:33:02.416465"
   }
 ]
