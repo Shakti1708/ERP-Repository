@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": 1,
+    "supplier_code": "SUP0001",
+    "name": "mona ENT",
+    "contact_person": "Monalisha Singh Deo",
+    "phone": "8002818846",
+    "email": "monalishasinghdeo161@gmail.com",
+    "address": "456 Business Avenue, City, State - 654321",
+    "city": "",
+    "created_at": "2025-09-02T15:17:26.902196"
+  }
+]
