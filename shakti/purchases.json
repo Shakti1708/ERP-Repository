@@ -25,6 +25,7 @@
     "total_amount": 33040.0,
     "status": "pending",
     "notes": "Purchase from mona ENT via Sellers Inventory",
-    "created_at": "2025-09-02T15:17:26.902196"
+    "created_at": "2025-09-02T15:17:26.902196",
+    "supplier_name": "mona ENT"
   }
 ]
