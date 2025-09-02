@@ -12,5 +12,16 @@
     "country": "India",
     "created_at": "2025-08-29T21:39:26.494971",
     "updated_at": "2025-08-29T21:41:41.982419"
+  },
+  {
+    "id": 2,
+    "supplier_code": "SUP0002",
+    "name": "Self",
+    "contact_person": "shakti singh",
+    "phone": "9583159611",
+    "email": "kumar.shakti36@gmail.com",
+    "address": "456 Business Avenue, City, State - 831002",
+    "city": "",
+    "created_at": "2025-09-02T16:05:30.662214"
   }
 ]
