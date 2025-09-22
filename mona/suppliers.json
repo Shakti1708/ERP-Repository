@@ -21,7 +21,10 @@
     "phone": "9583159611",
     "email": "kumar.shakti36@gmail.com",
     "address": "456 Business Avenue, City, State - 831002",
-    "city": "",
-    "created_at": "2025-09-02T16:05:30.662214"
+    "city": "jamshedpur",
+    "created_at": "2025-09-02T16:05:30.662214",
+    "state": "JHARKHAND",
+    "country": "India",
+    "updated_at": "2025-09-22T21:25:09.654758"
   }
 ]
