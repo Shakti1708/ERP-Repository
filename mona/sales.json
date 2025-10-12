@@ -20,7 +20,10 @@
     "created_at": "2025-09-01T16:27:45.632156",
     "customer_name": "Shakti Samant Singh",
     "tax_rate": 18.0,
-    "updated_at": "2025-09-01T20:35:31.978316"
+    "updated_at": "2025-10-12T17:02:49.238990",
+    "advance_payment": 2000.0,
+    "due_payment": 1776.0,
+    "payment_status": "partial"
   },
   {
     "id": 2,
