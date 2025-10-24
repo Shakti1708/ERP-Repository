@@ -103,7 +103,11 @@
     "status": "confirmed",
     "notes": "selling multiple product",
     "created_at": "2025-09-01T20:46:59.477874",
-    "customer_name": "Shakti Samant Singh"
+    "customer_name": "Shakti Samant Singh",
+    "advance_payment": 15000.0,
+    "due_payment": 7050.0,
+    "payment_status": "partial",
+    "updated_at": "2025-10-24T22:48:36.218077"
   },
   {
     "id": 5,
